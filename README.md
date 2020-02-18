@@ -33,7 +33,7 @@ Pokedex
 
 ## :bookmark_tabs: Tecnologias
 
-Technologies used in the development of the project:
+Tecnologias utilizadas no projeto:
 
 - [VsCode](https://code.visualstudio.com/)
 - [Flutter](https://flutter.dev/)
@@ -43,7 +43,7 @@ Technologies used in the development of the project:
 
 ## 💻 Projeto
 
-Projeto para aprendizado que viza a converção de moeda real, euro e dolar utilizando uma api.
+PokerAgenda que mostra os pokemons, suas evoloções e detalhes.
 
 ## 🤔 Como contribuir
 
